@@ -1,0 +1,6 @@
+{
+  "name": "My Store",
+  "description": "A modern and professional online grocery mobile application with an intuitive store front and an analytics-rich admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
